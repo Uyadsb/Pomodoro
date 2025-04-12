@@ -10,12 +10,18 @@ def timer(duration):
         time_rest -= 1
 
 def play_sound(number):
+
+    #if you would to play deffirent ounsds in notifications
+    '''
     if number == 0:
-        pygame.mixer.Sound("sounds/level_up.wav").play()
+        pygame.mixer.Sound("sounds/dingaling.wav").play()
     elif number == 1:
-        pygame.mixer.Sound("sounds/Explosion_meteor.wav").play()
+        pygame.mixer.Sound("sounds/notification-1.wav").play()
     else :
-        pygame.mixer.Sound("sounds/big_explosion.wav").play()
+        pygame.mixer.Sound("sounds/level_up.wav").play()
+    '''
+
+    pygame.mixer.Sound("sounds/dingaling.wav").play()
 
     # Wait a bit so the sound doesn't get cut off immediately
     time.sleep(3)
