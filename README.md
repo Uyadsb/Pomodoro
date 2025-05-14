@@ -43,7 +43,7 @@ The application provides audio notifications when each session ends, allowing yo
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/pomodoro.git
+git clone https://github.com/uyadsb/pomodoro.git
 cd pomodoro
 ```
 
