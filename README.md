@@ -15,7 +15,7 @@ This Pomodoro Timer application helps you implement the Pomodoro Technique to bo
 3. **Repeat Steps 1-2**: Complete three more focus sessions with short breaks
 4. **Long Break (15 minutes)**: After 4 completed Pomodoros, take a longer break
 
-The application provides audio notifications when each session ends, allowing you to stay on track without constantly watching the clock. The application is available in both command-line and graphical interface versions to suit your preferences.
+The application provides audio notifications when each session ends, allowing you to stay on track without constantly watching the clock. Currently available as a command-line application with a graphical interface planned for future releases.
 
 ### Why Use the Pomodoro Technique?
 
@@ -43,7 +43,7 @@ The application provides audio notifications when each session ends, allowing yo
 
 1. Clone this repository:
 ```
-git clone https://github.com/uyadsb/pomodoro.git
+git clone https://github.com/yourusername/pomodoro.git
 cd pomodoro
 ```
 
